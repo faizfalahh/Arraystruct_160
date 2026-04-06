@@ -37,7 +37,8 @@ int main() {
         cout << "data penduduk : " << endl;
         cout << "nama : " << mhs[i].nama << endl;
         cout << "desa : " << mhs[i].alamat.desa << endl;
-         cout << "kota : " << mhs[i].alamat.kota << endl;
+        cout << "kota : " << mhs[i].alamat.kota << endl;
+        cout << "umur : " << mhs[i].umur << endl;
         
 
     }
