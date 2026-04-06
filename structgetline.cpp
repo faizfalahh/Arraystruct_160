@@ -35,6 +35,8 @@ int main() {
     {
         // tampilkan
         cout << "data penduduk : " << endl;
+        cout << "nama : " << mhs[i].nama << endl;
+
     }
 
 }
