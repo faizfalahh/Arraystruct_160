@@ -29,7 +29,8 @@ int main() {
         cin >> mhs[i].umur;
         cout << endl;
         cin.ignore();
-
     }
+
+    for (int i =0; i <= 2; i++)
 
 }
